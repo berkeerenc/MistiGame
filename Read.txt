@@ -1,0 +1,8 @@
+before the execution of code, you HAVE TO enter some inputs 
+intput should foolow this order:
+  txt_file_name player number(5) is there human player  name1 name2 name3 lvl lvl lvl detailRate
+  - playerNumber can not be bigger than 5
+  - is there human player must be 0 or 1 with any athor input program will execute exit() function
+  - for every bot you should declare name just 1 name not more. if you enter more than 1 nmae for a bot that will create problem
+  - for every bot you should declare harness level these levels are 1 - easy / 2 - normal / 3 - hard with any athor input program will execute exit() function
+  - at the and you should declare a detail rate that number can be 0 = you will see all cards on table 1 = you will see just last card on table  2 = you will see last card of middle when turn comes you  
